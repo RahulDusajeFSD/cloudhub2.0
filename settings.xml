@@ -6,7 +6,7 @@
 <id>anypoint-connected-app</id>
 
 <username>~~~Client~~~</username>
-<password>ClientID~?~clientSecret</password>
+<password>ConnectedAppClientID~?~ConnectedAppClientSecret</password>
 
 
 </server>
